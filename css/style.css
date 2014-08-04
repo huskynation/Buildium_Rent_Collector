@@ -1,0 +1,9 @@
+.canvas{
+  border: 1px dotted #aaa;
+}
+
+.input-group{
+  margin-bottom:20px;
+  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+  font-weight:bold;
+}
